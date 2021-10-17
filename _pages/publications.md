@@ -4,13 +4,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<br>
+ <br>
+ <b>[Scheduling spatially distributed jobs with degradation: application to pothole repair](http://faarabi.github.io/publications/paper1)</b> <br> 
+ <b><i>Fatemeh Aarabi</i></b>, Rajan Batta.<br>
+ <i> Accepted at Socio-Economic Planning Sciences, 2020</i>.
+ <br>
+ <br>
+ <b>[erver Positioning and Response Strategies for SpatiallyArriving Jobs with Degradation: Light and Medium Traffic Cases](http://faarabi.github.io/publications/paper2)</b> <br> 
+ <b><i>Fatemeh Aarabi</i></b>, Rajan Batta.<br>
+ <i>Submitted to Journal of Operational Research Society</i>.
+ <br>
+ <br>
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+ My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=w9H7t4QAAAAJ&hl=en)<br>
