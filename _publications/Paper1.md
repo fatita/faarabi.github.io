@@ -2,7 +2,6 @@
 title: "Scheduling spatially distributed jobs with degradation: Application to pothole repair"
 collection: publications
 permalink: /publication/Paper1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-08-06
 venue: 'Socio-Economic Planning Sciences'
 paperurl: 'https://www.researchgate.net/profile/Fatemeh_Aarabi/publication/343479339_Scheduling_spatially_distributed_jobs_with_degradation_Application_to_pothole_repair/links/5f3b1f6592851cd302013358/Scheduling-spatially-distributed-jobs-with-degradation-Application-to-pothole-repair.pdf'
