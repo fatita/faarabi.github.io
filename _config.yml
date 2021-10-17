@@ -11,7 +11,7 @@ title                    : "Fatemeh Aarabi Account"
 title_separator          : "-"
 name                     : &name "Fatemeh Aarabi"
 description              : &description "Operation Research Scientist"
-url                      : https://fatemeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://faarabi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "faarabi/faarabi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Fatemeh Aarabi"
-  avatar           : "profile.png"
+  avatar           : "profilepic.jpg"
   bio              : "Ph.D. in Operations Research"
   location         : "San Diego, CA"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Faarabi"
+  github           : "faarabi"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  substack         : "fatemehaarabi" 
 
 # Reading Files
 include:
