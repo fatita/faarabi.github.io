@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fatemeh Aarabi Account"
+title                    : "Fatemeh Aarabi"
 title_separator          : "-"
 name                     : &name "Fatemeh Aarabi"
 description              : &description "Operation Research Scientist"
