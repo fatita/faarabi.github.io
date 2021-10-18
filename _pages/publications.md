@@ -10,7 +10,7 @@ author_profile: true
  <i> Accepted at Socio-Economic Planning Sciences, 2020</i>.
  <br>
  <br>
- <b>[Server positioning and response strategies for spatially arriving jobs with degradation: Light and medium traffic cases](http://faarabi.github.io/publications/paper2)</b> 
+ <b>[Server positioning and response strategies for spatially arriving jobs with degradation: Light and medium traffic cases](http://faarabi.github.io/publications/paper2)</b>  <br>  
  <b><i>Fatemeh Aarabi</i></b>, Rajan Batta.<br>
  <i>Submitted to Journal of Operational Research Society</i>.
  <br>
