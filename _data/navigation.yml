@@ -11,10 +11,7 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Resume"
-    url: /resume/    
+    url: /teaching/       
     
   - title: "CV"
     url: /cv/
