@@ -38,6 +38,8 @@ Publications
   
 Talks
 ======
+* Aarabi, F., <b><i>Batta, R.</i></b>, , “Server Positioning and Response Strategies for Spatially Arriving Jobs with Degradation: Light and Medium Traffic Cases" , INFORMS annual meeting 2021,
+Anaheim, CA, October 24-27 2021.
 * Aarabi, F., <b><i>Batta, R.</i></b>, , “A Mixed Integer Programming Approach for Scheduling Spatially Distributed
 Jobs with Degradation Rate: Application to Pothole Repair" , TRISTAN, Hamilton Island,
 Australia, June 2019.
