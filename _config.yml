@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Fatemeh Aarabi"
-  avatar           : "Yellow.jpg"
+  avatar           : 
   bio              : "Ph.D. in Operations Research"
   location         : "San Diego, CA"
   employer         :
